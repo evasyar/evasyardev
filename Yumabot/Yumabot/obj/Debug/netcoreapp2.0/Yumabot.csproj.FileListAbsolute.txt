@@ -1,0 +1,11 @@
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\bin\Debug\netcoreapp2.0\Yumabot.deps.json
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\bin\Debug\netcoreapp2.0\Yumabot.runtimeconfig.json
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\bin\Debug\netcoreapp2.0\Yumabot.runtimeconfig.dev.json
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\bin\Debug\netcoreapp2.0\Yumabot.dll
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\bin\Debug\netcoreapp2.0\Yumabot.pdb
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\obj\Debug\netcoreapp2.0\Yumabot.csproj.CoreCompileInputs.cache
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\obj\Debug\netcoreapp2.0\Yumabot.AssemblyInfoInputs.cache
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\obj\Debug\netcoreapp2.0\Yumabot.AssemblyInfo.cs
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\obj\Debug\netcoreapp2.0\Yumabot.dll
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\obj\Debug\netcoreapp2.0\Yumabot.pdb
+C:\Users\rsalgado\Source\Repos\Yumabot\Yumabot\obj\Debug\netcoreapp2.0\Yumabot.csprojResolveAssemblyReference.cache
